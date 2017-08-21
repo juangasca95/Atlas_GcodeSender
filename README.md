@@ -1,0 +1,2 @@
+# Atlas_GcodeSender
+Atlas_GcodeSender consists of a user-interface programmed in JAVA for control of additive manufacturing CNC machines – 3D printers. This interface allows three modes of control: manual, MDI (Manual Data Input) and automatic-mode through G-code commands by using serial communication. Atlas_GcodeSender can be integrated with controllers based on Arduino technology and, it is compatible with firmwares such as Marlin, Sprinter or AtlasDirver.
